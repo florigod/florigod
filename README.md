@@ -5,6 +5,8 @@ Backend developer in training with a passion for clean, efficient code and scala
 
 ### Current Project
 I'm currently working on:
+Lots of final exams in my gameDev career.
+However i have on hold:
 #### RainNotifier API
 Automation-focused weather API built with Node.js and Express.  
 Implements external API fetching, data filtering, and future alert automation.
