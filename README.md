@@ -10,7 +10,7 @@ Just finished a project and I'm planning on my next move.
 
 ## Previous Projects
 
-#### RainCast Notifier
+### RainCast Notifier
 An automated "set-and-forget" weather system designed to eliminate manual forecast checking by analyzing data daily and alerting users only when necessary.
 
 Engineered a hybrid email architecture (SendGrid + SMTP) to overcome cloud port restrictions and ensure high deliverability.
