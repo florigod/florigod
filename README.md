@@ -5,7 +5,7 @@ Backend developer in training with a passion for clean, efficient code and scala
 
 ## Current Project
 #### I'm currently working on:
-Just finished a project and I'm planning on my next move.
+Just finished a project and I'm thinking on my next move.
 
 
 ## Previous Projects
