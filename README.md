@@ -5,27 +5,19 @@ Backend developer in training with a passion for clean, efficient code and scala
 
 ## Current Project
 #### I'm currently working on:
-Just finished a project and I'm thinking on my next move.
+Projects for the Startup I'm working at. I'm gaining EXP as a backend developer.
 
 
-## Previous Projects
+## Some of my Previous Personal Backend Projects, are:
 
 ### RainCast Notifier
-An automated "set-and-forget" weather system designed to eliminate manual forecast checking by analyzing data daily and alerting users only when necessary.
+An automated weather-alert system designed to eliminate manual forecast checking by analyzing API data daily.
 
-Engineered a hybrid email architecture (SendGrid + SMTP) to overcome cloud port restrictions and ensure high deliverability.
+Engineered a hybrid email architecture (SendGrid + SMTP) to overcome restrictions and ensure high deliverability.
 
 Implemented serverless scheduling using GitHub Actions to trigger daily background analysis of Open-Meteo API data.
 
 Developed a Django backend that generates dynamic, in-memory Matplotlib charts to visualize rain intensity in emails.
-
-
-### SQL practice with IMDb database
-Cleaned, normalized, and indexed datasets to improve performance and integrity.
-
-Practiced schema design, constraints, and query optimization.
-
-Gained hands-on experience with schema design and query efficiency.
 
 
 ### Tasks REST API with OAuth2
@@ -34,6 +26,14 @@ CRUD operations for tasks linked to user accounts.
 Authentication-based REST API using FastAPI, JWT tokens, and PostgreSQL.  
 
 Command Line Interface for tasks and user management 
+
+
+### SQL practice with IMDb database
+Cleaned, normalized, and indexed datasets to improve performance and integrity.
+
+Schema design, constraints, and query optimization.
+
+
 
 
 ### Game Development Portfolio
