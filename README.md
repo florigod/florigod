@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Florian Mathe
+# Hi, I'm Florian Mathe
 
 ## About Me
 Backend developer in training with a passion for clean, efficient code and scalable systems.
