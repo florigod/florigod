@@ -1,7 +1,7 @@
 # Hi, I'm Florian Mathe
 
 ## About Me
-Backend developer in training with a passion for clean, efficient code and scalable systems.
+Backend and game developer in training, with a passion for efficient code and creative work.
 
 ## Current Project
 #### I'm currently working on:
